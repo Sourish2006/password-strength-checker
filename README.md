@@ -52,21 +52,28 @@ Then enter any password to check:
 ---
 
 ## 📌 Sample Output
+
+**Strong Password:**
+```
 📊 Password Strength Result:
 Password: **************
 Score: 6/6
 🟢 Strength: VERY STRONG
 ✅ Excellent! Your password is very strong.
+```
+
+**Weak Password:**
+```
 📊 Password Strength Result:
 Password: ********
 Score: 2/6
 🔴 Strength: WEAK
-💡 Suggestions:
-❌ Add at least one uppercase letter (A-Z)
-❌ Add at least one special character (!@#$...)
-⚠️  Avoid sequential patterns like 123 or abc
----
 
+💡 Suggestions:
+  ❌ Add at least one uppercase letter (A-Z)
+  ❌ Add at least one special character (!@#$...)
+  ⚠️  Avoid sequential patterns like 123 or abc
+```
 ## 🧠 Concepts Used
 
 | Concept | Details |
