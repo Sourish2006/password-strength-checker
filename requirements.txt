@@ -1,0 +1,4 @@
+# No external libraries required
+# All modules used are Python built-ins:
+# - re (regular expressions)
+# - getpass (secure password input)
